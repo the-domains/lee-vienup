@@ -1,28 +1,40 @@
-name: Lee Vienup
 favicon: null
-layout_spectrum: 0.4621124919503927
-typography_spectrum: 0.3839618058409542
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73162358-1
-  facebook: null
-  twitter: null
+name: Lee Vienup
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.874552
+  brandStrength: 0.1734563477803022
+  lightness: 0.6541219
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.17345634778030217
-  lightness: 0.4977903803810477
-  saturation: 0.118897964945063
-  rhythmicContrast: 0.7342564866412431
-purpose: []
+  rhythmicContrast: 0.7419355
+typography_spectrum: 0.2580645
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: UA-73162358-1
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
