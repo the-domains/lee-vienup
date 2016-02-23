@@ -1,41 +1,41 @@
-name: Lee Vienup
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2580645
+title: Lee Vienup
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Lee Vienup
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73162358-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.3924731
+  brandStrength: 0.1734563477803022
+  lightness: 0.172043
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.1734563477803022
-  lightness: 0.6541219
-  saturation: 0.874552
   rhythmicContrast: 0.7419355
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-73162358-1
+  facebook: null
+favicon: null
+name: Lee Vienup
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2580645
+layout_spectrum: 1
