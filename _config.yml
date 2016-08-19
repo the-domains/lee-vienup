@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.3924731
-  brandStrength: 0.1734563477803022
+  brandStrength: 0.7921147
   lightness: 0.172043
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#0100FE'
+    - '#E24B2E'
+    - '#110205'
+    - '#FFFFFF'
+    - '#FE00FE'
   rhythmicContrast: 0.7419355
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: UA-73162358-1
   facebook: null
-favicon: null
 name: Lee Vienup
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2580645
+typography_spectrum: 0.5286738
 layout_spectrum: 1
