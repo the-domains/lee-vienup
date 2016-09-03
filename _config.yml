@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3924731
-  brandStrength: 0.7921147
+  brandStrength: 0.3028674
   lightness: 0.172043
   brandColors:
     - '#0100FE'
@@ -23,15 +23,15 @@ color:
     - '#FFFFFF'
     - '#FE00FE'
   rhythmicContrast: 0.7419355
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
 analytics:
   twitter: null
   google: UA-73162358-1
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Lee Vienup
 opengraph:
   image: null
